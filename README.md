@@ -6,8 +6,6 @@
 💬 Ask me about JavaScript, Node.js, or basic backend concepts  
 📫 How to reach me: rahada70@gmail.com  
 ⚡ Fun fact: I enjoy organizing my digital life and building clean systems
-## 👨‍💻 About Me
-My name is Md. Abdul Ahad, a dedicated Computer Science / Software Engineering student with a strong passion for application development. I am highly committed to improving my skills and consistently learning modern development practices, with a focus on app development, backend technologies, and databases alongside my academic studies.I am focused on building a strong foundation in programming through university projects and continuous hands-on practice. I am also interested in collaborating on beginner-friendly app and web development projects to gain real-world experience and grow as a developer.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahad.98096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-ahad395)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahada70@gmail.com) 
